@@ -1,4 +1,4 @@
-# Movies--Application
+# Movies Application
 
 
 ## A movie management application written in C++ that lets the user to create it's own watch list using the available movies
