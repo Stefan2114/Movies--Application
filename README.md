@@ -49,6 +49,6 @@ This project was build as a homework for my last assignment in the second semest
 
 ![image](https://github.com/Stefan2114/Movies--Application/assets/147135917/256f86d8-9982-448d-8d0a-23a5c45c6b8f)
 
-![image](https://github.com/Stefan2114/Movies--Application/assets/147135917/34a7cba8-18a6-46a2-995f-a2bb8f973db0)
+![image](https://github.com/Stefan2114/Movies--Application/assets/147135917/c85369e7-d80b-45b4-95f0-e010e7095844)
 
 ![image](https://github.com/Stefan2114/Movies--Application/assets/147135917/3bb45785-66a5-4b85-bf2f-554633181d96)
