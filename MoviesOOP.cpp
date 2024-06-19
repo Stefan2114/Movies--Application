@@ -16,6 +16,8 @@ MoviesOOP::MoviesOOP(Service& serv,QWidget *parent)
     layouts->addWidget(user);
     this->setLayout(layouts);
 
+    this->setWindowTitle("Mode Menu");
+
     setSlots();
 
 }
@@ -34,15 +36,18 @@ void MoviesOOP::setSlots()
 
 void MoviesOOP::adminButtonHandler()
 {
+    this->setWindowTitle("Admin");
     layouts->setCurrentIndex(1);
 }
 
 void MoviesOOP::userButtonHandler()
 {
+    this->setWindowTitle("User");
     layouts->setCurrentIndex(2);
 }
 
 void MoviesOOP::backButtonHandler()
 {
+    this->setWindowTitle("Mode Menu");
     layouts->setCurrentIndex(0);
 }

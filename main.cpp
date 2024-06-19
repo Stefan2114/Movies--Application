@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
 
 	FileWatchlist* watchList = nullptr;
 	QMessageBox msgBox;
-	msgBox.setText("File type");
+	msgBox.setText("File type:");
 	QAbstractButton* buttonCSV = msgBox.addButton("CSV", QMessageBox::YesRole);
 	QAbstractButton* buttonHTML = msgBox.addButton("HTML", QMessageBox::NoRole);
 	int ret = msgBox.exec();

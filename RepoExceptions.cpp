@@ -23,7 +23,7 @@ const char* RepoException::what()
 
 const char* DuplicateMovieException::what() const noexcept
 {
-	return "There is another song with the same title and year!";
+	return "There is another movie with the same title and year!";
 }
 
 const char* InexistenMovieException::what() const noexcept
