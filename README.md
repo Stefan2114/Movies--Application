@@ -32,8 +32,8 @@ This project was build as a homework for my last assignment in the second semest
 ## Implementation:
 * Object Oriented Programming
 * Layered architecture
-* Qt framework GUI
 *  Custom errors handling
+*  Qt framework GUI
 * Undo and redo actions saved in unique pointers
 
 
