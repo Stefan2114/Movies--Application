@@ -1,7 +1,7 @@
 # Movies Application
 
 
-## A movie management application written in C++ that lets the user to create it's own watch list using the available movies
+## A movies management application written in C++ that lets the user to create it's own watch list using the available movies
 
 This project was build as a homework for my last assignment in the second semester of my faculty. It's main objective was to simulate a local database of movies having both admin and user GUI
 
