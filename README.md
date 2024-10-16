@@ -31,6 +31,7 @@ This project was build as a homework for my last assignment in the second semest
   
 ## Implementation:
 * Object Oriented Programming
+* MVC design pattern
 * Layered architecture
 *  Custom errors handling
 *  Qt framework GUI
